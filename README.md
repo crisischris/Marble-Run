@@ -10,4 +10,6 @@ In editor gameplay can be achieved by toggling the 'keyboard' bool on the hero g
 IOS / Android mini-game.  Control the marble with reactive touch controls and avoid obstacles.  Every 5 obstacles passed will increase the speed.
 
 
-https://img.youtube.com/vi/Fsr18aZUn5k/0.jpg
+
+
+<img src="https://img.youtube.com/vi/Fsr18aZUn5k/0.jpg">
