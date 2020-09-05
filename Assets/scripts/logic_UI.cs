@@ -54,7 +54,13 @@ public class logic_UI : MonoBehaviour
         speedText.transform.position = new Vector2(Screen.width / 2, Screen.height - Screen.height / 4 - 200);
 
 
-        ScoreBoard.transform.position = new Vector2(Screen.width/2, Screen.height - Screen.height/10);
+        if(highscore.IsActive())
+            ScoreBoard.transform.position = new Vector2(Screen.width/2, Screen.height - Screen.height/10);
+        else
+        {
+            ScoreBoard.transform.position = new Vector2(Screen.width / 2, Screen.height - 100);
+        }
+
         highscore.transform.position = new Vector2(Screen.width / 2, Screen.height - 100);
     }
 
