@@ -1,6 +1,6 @@
 # Marble-Run
 
-IOS / Android mini-game.  Control the marble with reactive touch controls and avoid obstacles.  Every 5 obstacles passed will increase the speed until a maximum speed is hit.  After which the speed will reset to starting speed and the cycle will repeat.  Pick between easy/medium/hard/maniac for increased starting speeds as well as maximum ceiling speeds.
+iOS / Android game prototype made over a few days.  Control the marble with reactive touch controls and avoid obstacles.  Every 5 obstacles passed will increase the speed until a maximum speed is hit.  After which the speed will reset to starting speed and the cycle will repeat.  Pick between easy/medium/hard/maniac for increased starting speeds as well as maximum ceiling speeds.
 
 
 Unity Version 2019.4.0f1
