@@ -1,6 +1,6 @@
 # Marble-Run
 
-gameplay video -  https://www.youtube.com/watch?v=rU4fUlD_x-U
+gameplay video -  https://youtu.be/Fsr18aZUn5k
 
 Unity Version 2019.4.0f1
 directions:
